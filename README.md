@@ -1,4 +1,4 @@
-# SpecialCare Services
+# SpecialCare Solutions
 
 A new Flutter project.
 
